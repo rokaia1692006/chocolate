@@ -8,7 +8,7 @@ This readme is a progress report and a rant just to show the process start to fi
 
 now for some photos
 ## Heres the first chocolate model
-![choco](Images\Screenshot 2025-07-11 124300.png)
+![choco](Images/Screenshot 2025-07-11 124300.png)
 
 Is it the best? No
 Is it alright? Yes, It works for now 
