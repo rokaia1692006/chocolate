@@ -8,13 +8,13 @@ This readme is a progress report and a rant just to show the process start to fi
 
 now for some photos
 ## Heres the first chocolate model
-![choco](Images/shading.png)
+![choco](Images/render.png)
 
 Is it the best? No
 Is it alright? Yes, It works for now 
 
 ## Now idk why in shading it does this but the render looks decent-ish
-![choco_part2](Images/render.png)
+![choco_part2](Images/shading.png)
 
 # Some weird shit I wrote at like 3 AM (Excuse the grammer , puctuation, spelling , overall meaning of the text)
 
