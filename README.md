@@ -8,13 +8,13 @@ This readme is a progress report and a rant just to show the process start to fi
 
 now for some photos
 ## Heres the first chocolate model
-!(.\Images\Screenshot 2025-07-11 124300.png)
+!(Images\Screenshot 2025-07-11 124300.png)
 
 Is it the best? No
 Is it alright? Yes, It works for now 
 
 ## Now idk why in shading it does this but the render looks decent-ish
-!(.\Images\Screenshot 2025-07-11 020637.png)
+!(Images\Screenshot 2025-07-11 020637.png)
 
 # Some weird shit I wrote at like 3 AM (Excuse the grammer , puctuation, spelling , overall meaning of the text)
 
